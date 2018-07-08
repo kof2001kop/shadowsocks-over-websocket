@@ -1,7 +1,7 @@
 {
     "localAddress":"127.0.0.1",
     "localPort": 1080,
-    "serverAddress": "127.0.0.1",
+    "serverAddress": "19.20.21.22",
     "serverPort": 8388,
     "password": "nmpvvg",
     "method": "aes-256-cfb"
